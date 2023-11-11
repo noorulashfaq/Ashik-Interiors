@@ -1,0 +1,13 @@
+GET http://localhost:1122/list
+
+###
+
+POST http://localhost:1122/insert
+Content-Type: application/json
+
+{
+    "customer_name":"John",
+    "customer_phone_number":1010567890,
+    "customer_address":"Bangalore"
+}
+
