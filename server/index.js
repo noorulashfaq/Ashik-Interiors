@@ -49,3 +49,5 @@ app.get('/list',async(req,res)=>{
 app.listen(1122, ()=>{
     console.log('Server started')
 })
+
+https://www.pwc.com/us/en/services/alliances/assets/pwc-generative-ai-chatbot-using-llama2-on-aws.pdf
